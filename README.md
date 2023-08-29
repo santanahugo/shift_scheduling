@@ -2,7 +2,7 @@ Hello, can you create a Python program that can create a shift schedule with day
 
 Rules:
 * ~~Each day has two shifts - Morning shift and Evening Shift.~~
-* Each person has to have at least 1 day off on a sunday per month
+* ~~Each person has to have at least 1 day off on a sunday per month~~
 *If possible whoever has the sunday off has monday off as well
 *Each person has to have 2 days off per week.
 * ASG1, ASG2, ASG3, ASG4 don't have two shifts together on the same day. Their work schedule is separate from the rest of employees.
