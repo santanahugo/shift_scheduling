@@ -30,3 +30,4 @@ Rules:
     - Actually consider no_days
     - Handle substitutes
 - Separate classes script and usage notebook
+- Investigate how to fix days_off_per_week implementation conflict with day_off_after_doubling. Invoke day_off_after_doubling handling after each set_new_day_off_within range?
